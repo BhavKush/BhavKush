@@ -1,6 +1,6 @@
 ![logo](https://github.com/BhavKush/BhavKush/blob/main/Bhavesh%20Kushwaha.jpg)
 <h1 align="center">Hi 👋, I'm Bhavesh Kushwaha</h1>
-<h3 align="center">A passionate Full-Sstack developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kush.bhavesh15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1APQR8H3Z6t5OVBpk92hOyCzVU7v0q442?usp=share_link](https://drive.google.com/drive/folders/1APQR8H3Z6t5OVBpk92hOyCzVU7v0q442?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1r-l0BErZ0HNLmHwbSwE6WHZVrI2mGubP/view?usp=share_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
