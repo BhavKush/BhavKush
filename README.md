@@ -16,12 +16,12 @@
 <p align="left">
 <a href="https://codepen.io/bhavkush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhavkush" height="30" width="40" /></a>
 <a href="https://twitter.com/bhavesh37154131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavesh37154131" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavesh kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavesh-kushwaha-4a2373227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh kushwaha" height="30" width="40" /></a>
 <a href="https://instagram.com/kush_bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kush_bhavesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kush_bhavesh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kush_bhavesh15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhav_kush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhav_kush" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kushbhavesh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushbhavesh15" height="30" width="40" /></a>
-<a href="https://discord.gg/Bhav_Kush#6729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bhav_Kush#6729" height="30" width="40" /></a>
+<a href="https://discord.gg/Bhav_Kush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bhav_Kush#6729" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
