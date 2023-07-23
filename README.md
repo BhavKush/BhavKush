@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kush.bhavesh15@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1r-l0BErZ0HNLmHwbSwE6WHZVrI2mGubP/view?usp=share_link">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/18N4aEZrlSmcThJDoVB2fr-GZo9L7cgLw/view?usp=drive_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
