@@ -1,34 +1,109 @@
-![logo](https://github.com/BhavKush/BhavKush/blob/main/Bhavesh%20Kushwaha.jpg)
-<h1 align="center">Hi 👋, I'm Bhavesh Kushwaha</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=29&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bhavesh!)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<a href="https://www.linkedin.com/in/bhavkush/">
+
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+
+</a>
+
+<a href="https://twitter.com/Bhavesh37154131">
+
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+
+</a>
+
+<a href="https://bhavkush.github.io/Portfolio/">
+
+  <img align="left" width="26px" height="26px" src="https://img.icons8.com/pulsar-color/48/resume.png" />
+
+</a>
+
+<a href="mailto:kush.bhavesh15@gmail.com">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" />
+</a>
+
+<br>
+
+<br>
+
+<img align="right" width="500px" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
+
+I'm a Computer Science Master's student at Vellore Institute of Technology with a passion for software engineering and technology. Currently on the lookout for internships and full-time opportunities that will allow me to contribute and grow in the field.
+
+## About Me
+- 🎓 Pursuing Master of Computer Application
+- 💻 Software Engineering Enthusiast
+- 🌐 Exploring web development to create tangible impact
+- 🌱 Implementing my Learning of web development to add interactivity to my projects
+- 🔧 Actively involved in frontend projects to enhance user experiences
+
+## Let's Connect and Collaborate!
+- 👯 I'm excited to collaborate on hackathons and open-source projects
+- ✨ I believe in helping others learn and thrive in the world of tech
+
+## Fun Facts
+- ⚡ I have an unwavering love for both food and tech communities
+- 😸 Excited about attending meetups and networking with fellow tech enthusiasts
+
+Feel free to reach out if you're interested in collaboration, have questions, or just want to talk tech and share some good food recommendations! 🍔👩‍💻
+
+
+<br>
+
+
+## Connect with me:
+  <a href="https://www.linkedin.com/in/bhavkush/" target="_blank" >
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Bhavesh37154131" target="_blank" >
+    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:kush.bhavesh15@gmail.com" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br>
+  <br>
+
+## Languages and Tools: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+## Certification: 📜
+
+<a href="https://drive.google.com/file/d/1KXWjT1qLMswYk-g5hN0BW79ou0XKFTSo/view?usp=sharing"> 
+  
+  <img alt="MERN Stack Certificate" src="https://www.codebook.in/static/main/img/courses/2.jpg" height="120px" />
+
+</a>
+
+<a href="https://drive.google.com/file/d/1UdWXEd_9ez7lm0qoaNhlIQ7b8YPHw-oo/view?usp=sharing"> 
+  
+  <img alt= "DSA Certificate" src="https://media.geeksforgeeks.org/wp-content/uploads/20230627113746/DSA-full-form.png" height="120px" />
+
+</a>
+<br>
+
+## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
+
+  
+ <p align="center">
+   
+   <a href="#"><img alt="Bhavesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BhavKush&rank_icon=github&title_color=4df3ff&text_color=fffff&theme=transparent" /></a> 
+   <a href="#"><img  alt="Bhavesh's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=BhavKush&theme=black-ice&hide_border=false&stroke=0000&background=0D1117" /> </a>
+   
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavkush&label=Profile%20views&color=0e75b6&style=flat" alt="bhavkush" /> </p>
-
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
-
-- 📫 How to reach me **kush.bhavesh15@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/18N4aEZrlSmcThJDoVB2fr-GZo9L7cgLw/view?usp=drive_link">Resume</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/bhavkush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhavkush" height="30" width="40" /></a>
-<a href="https://twitter.com/bhavesh37154131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavesh37154131" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhavesh-kushwaha-4a2373227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh kushwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/kush_bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kush_bhavesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kush_bhavesh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kush_bhavesh15" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhav_kush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhav_kush" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kushbhavesh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushbhavesh15" height="30" width="40" /></a>
-<a href="https://discord.gg/Bhav_Kush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bhav_Kush#6729" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavkush&show_icons=true&locale=en&layout=compact" alt="bhavkush" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavkush&show_icons=true&locale=en" alt="bhavkush" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavkush&" alt="bhavkush" /></p>
