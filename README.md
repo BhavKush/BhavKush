@@ -26,7 +26,7 @@
 
 <br>
 
-<img align="right" width="500px" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
+<img align="right" width="500px" border-radius="15px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 I'm a Computer Science Master's student at Vellore Institute of Technology with a passion for software engineering and technology. Currently on the lookout for internships and full-time opportunities that will allow me to contribute and grow in the field.
 
