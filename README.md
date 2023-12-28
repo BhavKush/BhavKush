@@ -1,24 +1,24 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=29&duration=4000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bhavesh!)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/bhavkush/">
+<a href="https://www.linkedin.com/in/bhavkush/" target="_blank">
 
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 
 </a>
 
-<a href="https://twitter.com/Bhavesh37154131">
+<a href="https://twitter.com/Bhavesh37154131" target="_blank">
 
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 
 </a>
 
-<a href="https://bhavkush.github.io/Portfolio/">
+<a href="https://bhavkush.github.io/Portfolio/" target="_blank">
 
   <img align="left" width="26px" height="26px" src="https://img.icons8.com/pulsar-color/48/resume.png" />
 
 </a>
 
-<a href="mailto:kush.bhavesh15@gmail.com">
+<a href="mailto:kush.bhavesh15@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" />
 </a>
 
@@ -83,13 +83,13 @@ Feel free to reach out if you're interested in collaboration, have questions, or
 
 ## Certification: 📜
 
-<a href="https://drive.google.com/file/d/1KXWjT1qLMswYk-g5hN0BW79ou0XKFTSo/view?usp=sharing"> 
+<a href="https://drive.google.com/file/d/1KXWjT1qLMswYk-g5hN0BW79ou0XKFTSo/view?usp=sharing" target="_blank"> 
   
   <img alt="MERN Stack Certificate" src="https://www.codebook.in/static/main/img/courses/2.jpg" height="120px" />
 
 </a>
 
-<a href="https://drive.google.com/file/d/1UdWXEd_9ez7lm0qoaNhlIQ7b8YPHw-oo/view?usp=sharing"> 
+<a href="https://drive.google.com/file/d/1UdWXEd_9ez7lm0qoaNhlIQ7b8YPHw-oo/view?usp=sharing" target="_blank"> 
   
   <img alt= "DSA Certificate" src="https://media.geeksforgeeks.org/wp-content/uploads/20230627113746/DSA-full-form.png" height="120px" />
 
